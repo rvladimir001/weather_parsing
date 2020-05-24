@@ -1,2 +1,2 @@
 # weather_parsing
-Учебный проект. простой парсер погоды на BeautifulSoup.
+Учебный проект. Простой парсер погоды на BeautifulSoup.
